@@ -101,7 +101,7 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 <img width="1633" height="869" alt="image" src="https://github.com/user-attachments/assets/ee02a8cf-4e59-488e-ad3e-64837247da91" />
 <img width="1876" height="761" alt="image" src="https://github.com/user-attachments/assets/b04d20ee-8f2b-4452-b34b-3e1a3bdeba90" />
 <img width="1320" height="888" alt="image" src="https://github.com/user-attachments/assets/198a9f2e-140c-41c4-b80c-9334ef3a7877" />
-##
+## Có tính năng dành cho admin: Thống kê xem có bao nhiêu đơn hàng, call để xác nhận và cập nhật thông tin đơn hàng. chuyển cho bộ phận đóng gói, gửi bưu điện, cập nhật mã COD, tình trạng giao hàng, huỷ hàng,...
 
 
 
