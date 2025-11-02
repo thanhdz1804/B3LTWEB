@@ -105,7 +105,14 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 <img width="1159" height="700" alt="image" src="https://github.com/user-attachments/assets/f1217926-afe1-457e-9020-6972de328a87" />
 <img width="1272" height="504" alt="image" src="https://github.com/user-attachments/assets/4ad9b909-05c8-4311-b975-2577d65b8cc5" />
 <img width="1661" height="934" alt="image" src="https://github.com/user-attachments/assets/0333e88d-1317-41f0-b610-fe6c5789c32c" />
-
+<img width="1913" height="979" alt="image" src="https://github.com/user-attachments/assets/f3c6956f-2ea5-47db-b704-7e6f454c8f31" />
+<img width="1181" height="964" alt="image" src="https://github.com/user-attachments/assets/4ef40f22-8bb4-40af-a26b-88897e3eca06" />
+<img width="1716" height="922" alt="image" src="https://github.com/user-attachments/assets/a63863fb-b37f-48d8-965f-2fc03232111d" />
+## - Có tính năng dành cho admin: biểu đồ thống kê số lượng mặt hàng bán được trong từng ngày. (sử dụng grafana)
+<img width="1274" height="715" alt="image" src="https://github.com/user-attachments/assets/5e7f0924-1be7-431e-b340-c7bfafa2db43" />
+<img width="1920" height="633" alt="image" src="https://github.com/user-attachments/assets/a0844c0b-9bbc-4323-b605-c344b1038d01" />
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/35b3ecfd-374e-4ed8-9313-b350f93ff281" />
+##  - backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
 
 
 
