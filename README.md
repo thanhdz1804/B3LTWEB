@@ -95,6 +95,9 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/24910f2f-b260-48c2-8382-74c5760863e1" />
 ## Chọn sản phẩm (giỏ hàng, tổng tiền)
 <img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/488be037-a9a3-4e8b-bfd2-000c96b4ce3f" />
+<img width="1901" height="794" alt="image" src="https://github.com/user-attachments/assets/6afd80e5-9645-432d-9b87-83971c0a5e66" />
+<img width="1385" height="563" alt="image" src="https://github.com/user-attachments/assets/07f01330-e9e3-4be5-a835-0558b6c6c56a" />
+## Có tính năng đặt hàng, nhập thông tin giao hàng => được 1 đơn hàng
 
 
 
