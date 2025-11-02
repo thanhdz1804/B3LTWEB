@@ -1,4 +1,4 @@
-<img width="1378" height="908" alt="image" src="https://github.com/user-attachments/assets/e95ef0d5-cd27-4d14-ad5b-d4166c70f707" /># B3LTWEB
+# B3LTWEB
 # Bài tập 3   : môn Phát triển ứng dụng trên nền web
 Giảng viên  : Đỗ Duy Cốp
 Lớp học phần: 58KTPM
@@ -80,7 +80,23 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 ## API “sản phẩm bán chạy”
 <img width="1273" height="588" alt="image" src="https://github.com/user-attachments/assets/076bd5dd-6b47-4fb5-9edd-fd99395a7ee3" />
 <img width="1553" height="790" alt="image" src="https://github.com/user-attachments/assets/a2cbdb52-a881-42cb-b001-97f431fbcafb" />
-## kết quả
 <img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/98d899a6-3afc-42a7-8824-f4dfa4c10722" />
-- Có tính năng liệt kê các nhóm sản phẩm
+## - Có tính năng liệt kê các nhóm sản phẩm
+<img width="1920" height="985" alt="image" src="https://github.com/user-attachments/assets/e9a19f35-528f-4241-ba2b-633d560efcd8" />
+<img width="1226" height="535" alt="image" src="https://github.com/user-attachments/assets/acfb23a1-473b-4f63-b8c0-fb2f1ff53ac4" />
 <img width="1907" height="998" alt="image" src="https://github.com/user-attachments/assets/8866d046-16d8-47f8-83ca-3330b22a6ff7" />
+## - Có tính năng liệt kê sản phẩm theo nhóm
+<img width="1920" height="347" alt="image" src="https://github.com/user-attachments/assets/ed3ca453-925c-4de7-8c21-6915ce25124f" />
+<img width="1149" height="449" alt="image" src="https://github.com/user-attachments/assets/57219e4c-c2ec-4747-8a8b-520479fdc2b5" />
+<img width="1920" height="938" alt="image" src="https://github.com/user-attachments/assets/e342b1c8-630d-4193-b440-617deeaaf6b6" />
+## - Có tính năng tìm kiếm sản phẩm
+<img width="1920" height="835" alt="image" src="https://github.com/user-attachments/assets/b76bde15-6014-4c21-a09d-4eda99f0263f" />
+<img width="1914" height="928" alt="image" src="https://github.com/user-attachments/assets/f72f72cb-c3e1-4c3f-8501-0be4a33ca32c" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/24910f2f-b260-48c2-8382-74c5760863e1" />
+## Chọn sản phẩm (giỏ hàng, tổng tiền)
+<img width="1920" height="869" alt="image" src="https://github.com/user-attachments/assets/488be037-a9a3-4e8b-bfd2-000c96b4ce3f" />
+
+
+
+
+
