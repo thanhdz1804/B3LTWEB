@@ -113,7 +113,12 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 <img width="1920" height="633" alt="image" src="https://github.com/user-attachments/assets/a0844c0b-9bbc-4323-b605-c344b1038d01" />
 <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/35b3ecfd-374e-4ed8-9313-b350f93ff281" />
 ##  - backend: sử dụng nodered xử lý request gửi lên từ javascript, phản hồi về json.
-
+<img width="1672" height="916" alt="image" src="https://github.com/user-attachments/assets/a2bff607-c92e-4a65-a2c0-c21a0d5f86f5" />
+<img width="1178" height="456" alt="image" src="https://github.com/user-attachments/assets/f727f0df-21ea-4b7d-8d5b-602b7ca32d75" />
+# 5. Nginx làm web-server
+ - Cấu hình nginx để chạy được website qua url http://fullname.com  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
+ - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
+ - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
 
 
 
