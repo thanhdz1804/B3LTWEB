@@ -117,8 +117,11 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 <img width="1178" height="456" alt="image" src="https://github.com/user-attachments/assets/f727f0df-21ea-4b7d-8d5b-602b7ca32d75" />
 # 5. Nginx làm web-server
  - Cấu hình nginx để chạy được website qua url http://fullname.com  (thay fullname bằng chuỗi ko dấu viết liền tên của bạn)
+ <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/d19b509e-a97a-4d49-8684-e5381021955f" />
  - Cấu hình nginx để http://fullname.com/nodered truy cập vào nodered qua cổng 80, (dù nodered đang chạy ở port 1880)
+  <img width="1916" height="880" alt="image" src="https://github.com/user-attachments/assets/3f5804d8-9e24-402e-a6a5-138bb6bcc7cb" />
  - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)
+<img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/f24dc020-356a-490a-997c-8f7620c6391b" />
 
 
 
