@@ -94,7 +94,7 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 
 <img width="1553" height="790" alt="image" src="https://github.com/user-attachments/assets/a2cbdb52-a881-42cb-b001-97f431fbcafb" />
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/98d899a6-3afc-42a7-8824-f4dfa4c10722" />
+
 
 ## - Có tính năng liệt kê các nhóm sản phẩm
 
@@ -102,7 +102,7 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
 
 <img width="1226" height="535" alt="image" src="https://github.com/user-attachments/assets/acfb23a1-473b-4f63-b8c0-fb2f1ff53ac4" />
 
-<img width="1907" height="998" alt="image" src="https://github.com/user-attachments/assets/8866d046-16d8-47f8-83ca-3330b22a6ff7" />
+
 
 ## - Có tính năng liệt kê sản phẩm theo nhóm
 
