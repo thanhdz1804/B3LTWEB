@@ -175,7 +175,11 @@ Thông tin login lưu trong MariaDB, dev quản lý bằng phpMyAdmin, dùng mã
  - 
 <img width="1914" height="996" alt="image" src="https://github.com/user-attachments/assets/f24dc020-356a-490a-997c-8f7620c6391b" />
 
-
+# Từ bài B3LTWEB, em hiểu được :
+	•	Cách xây dựng một hệ thống web hoàn chỉnh bằng Docker.
+	•	Cách vận hành, kết nối và cấu hình các dịch vụ backend, database và frontend.
+	•	Cách triển khai một trang web thật trên Linux với domain, SSL, và phân quyền.
+	•	Và quan trọng hơn, tôi hiểu được mô hình hoạt động của một website hiện đại — từ mã nguồn đến triển khai thực tế.
 
 
 
